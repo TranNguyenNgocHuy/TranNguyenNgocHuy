@@ -7,7 +7,7 @@ Full Stack developer
 I am a full-stack developer with a continuous drive to learn and grow.
 
 * 🌍  I'm based in Ho Chi Minh City
-* 🧠  I'm learning Angular
+* 🧠  I'm learning ReactJS
 
 ### Skills
 
